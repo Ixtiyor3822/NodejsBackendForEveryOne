@@ -25,3 +25,6 @@ console.log("Ko`paytmasini topish: " + n)
 // Bo`linmasini topish
 n = a/b;
 console.log("Bo`linmasini topish : " + n)
+// Qoldiqni topish
+n=a%b;
+console.log("Qoldiqni topish: " + n)
